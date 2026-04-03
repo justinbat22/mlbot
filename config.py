@@ -25,7 +25,7 @@ YT_DLP_OPTIONS = ""
 USE_SERVICE_ACCOUNTS = False
 NAME_SUBSTITUTE = r""
 FFMPEG_CMDS = {"merge": ["-f concat -safe 0 -i mltb.txt -c copy mltb.mp4 -del"]}
-UPLOAD_PATHS = {}
+UPLOAD_PATHS = {"path 1": "/root/downloads/"}
 # GDrive Tools
 GDRIVE_ID = ""
 IS_TEAM_DRIVE = False
