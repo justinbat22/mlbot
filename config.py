@@ -67,7 +67,7 @@ HYDRA_API_KEY = ""
 UPSTREAM_REPO = "https://github.com/justinbat22/mlbot/"
 UPSTREAM_BRANCH = "master"
 # Leech
-LEECH_SPLIT_SIZE = 2GB
+LEECH_SPLIT_SIZE = 2
 AS_DOCUMENT = False
 EQUAL_SPLITS = False
 MEDIA_GROUP = False
