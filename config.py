@@ -8,11 +8,11 @@ TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+SUDO_USERS = "989262779"
 DATABASE_URL = "mongodb+srv://justin22:Subash7550@cluster0.3zj66gf.mongodb.net/?appName=Cluster0"
 DATABASE_NAME = "mltb"
 STATUS_LIMIT = 4
-DEFAULT_UPLOAD = "mrcc:remote:path"
+DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 10
 FILELION_API = ""
 STREAMWISH_API = ""
